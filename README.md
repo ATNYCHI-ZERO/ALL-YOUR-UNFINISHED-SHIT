@@ -101,4 +101,4 @@ Explore
 * **"(pre-registered metrics)"**: The exact measures of success (e.g., prediction error, accuracy rate) must be decided, defined, and publicly documented **before** the final testing is performed. This prevents researchers from *p-hacking* or cherry-picking the metrics that make their model look best after the results are already known.
 In summary, the demand is for the Chronogenesis model to move from an unvalidated hypothesis to a successful, predictive model by passing a pre-registered, time-segregated test where it must outperform existing or simple competitor models.
 
-Would you like me to look up the specific scientific context for the term Chronogenesis (e.g., in cosmology or cognitive science) to provide more detail on what it's trying to predict?
+Would you like me to look up the specific scientific context for the term Chronogenesis (e.g., in cosmology or cognitive science) to provide more detail on what it's trying to predict?https:/
